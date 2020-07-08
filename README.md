@@ -4,12 +4,6 @@
 [API Documentation](https://solent-ssd-group-c.github.io/api_docs/)
 
 >
-### Group Members
-**Husnul Aman-14883830 |**
-**Jareer Zeenam-14883881 |**
-**Emaadh Careem-14889641 |**
-**Puvanendrarajah Vinushiya-14883813 |**
-**Thilagshana Thilakarasa-14883708**
 
 ## Application Configuration
 

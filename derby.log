@@ -1,0 +1,317 @@
+----------------------------------------------------------------
+Mon May 11 21:01:47 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:02:38 IST 2020:
+Shutting down instance a816c00e-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:02:40 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:02:48 IST 2020:
+Shutting down instance 176240b2-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:02:50 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a0f1c156-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:03:17 IST 2020:
+Shutting down instance a0f1c156-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:03:19 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 44c541fa-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:03:24 IST 2020:
+Shutting down instance 44c541fa-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:03:25 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 02dcc29e-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:03:44 IST 2020:
+Shutting down instance 02dcc29e-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:03:46 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance db384342-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:05:45 IST 2020:
+Shutting down instance db384342-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:05:47 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cdd7c3e6-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:05:57 IST 2020:
+Shutting down instance cdd7c3e6-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:05:58 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance dabb448a-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:07:17 IST 2020:
+Shutting down instance dabb448a-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:07:19 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 01e2c52e-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:07:38 IST 2020:
+Shutting down instance 01e2c52e-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:07:40 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 61e685dc-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:08:27 IST 2020:
+Shutting down instance 61e685dc-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:08:28 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9f7b468a-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:09:02 IST 2020:
+Shutting down instance 9f7b468a-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:09:04 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3aa10738-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:09:07 IST 2020:
+Shutting down instance 3aa10738-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:09:09 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b357c7e6-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:09:23 IST 2020:
+Shutting down instance b357c7e6-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:09:24 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 899f8894-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:12:47 IST 2020:
+Shutting down instance 899f8894-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:12:48 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3d784942-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:17:03 IST 2020:
+Shutting down instance 3d784942-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:17:04 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4ee209f0-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:17:09 IST 2020:
+Shutting down instance 4ee209f0-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:17:11 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3ddcca9e-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:20:52 IST 2020:
+Shutting down instance 3ddcca9e-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:20:53 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8a688b4c-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:29:07 IST 2020:
+Shutting down instance 8a688b4c-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:31:57 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0f83cbfb-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 11 21:31:58 IST 2020:
+Shutting down instance 0f83cbfb-0172-045d-0e57-000005882668 on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Mon May 11 21:31:58 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3369cc96-0172-045d-0e57-000005882668 
+on database directory memory:C:\Users\husnu\Desktop\BACKEND\tour-api\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/husnu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\husnu\Desktop\BACKEND\tour-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
